@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **improving my code design, and my problem-solving skills.**
 
-- 🌱 I’m currently learning **some advanced topics and problem-solving**
-
 - 👯 I’m looking to collaborate on **big projects.**
 
 - 👨‍💻 All of my projects designs are available at [https://www.pinterest.com/amaarreda/_saved/](https://www.pinterest.com/amaarreda/_saved/)
