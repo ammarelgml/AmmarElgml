@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ammar ElGml</h1>
+<h1 align="center">Hi 👋, I'm Ammar Elgml</h1>
 <h3 align="center">A flutter developer from Egypt</h3>
 
 - 🔭 I’m currently working on **improving my code design, and my problem-solving skills.**
