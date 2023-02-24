@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects designs are available at [https://www.pinterest.com/amaarreda/_saved/](https://www.pinterest.com/amaarreda/_saved/)
 
-- 📫 How to reach me **eng.amaarelgml@gmail.com**
+- 📫 How to reach me **ammar.elgml@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15woAFNIQ8XHwJyMv4LcLL9Xltm_asmM4/view?usp=sharing)
 
