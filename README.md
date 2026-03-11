@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaarelgml&label=Profile%20views&color=0e75b6&style=flat" alt="amaarelgml" /> </p>
 
-- 🔭 I’m currently working on **improving my code design, and my problem-solving skills.**
-
-- 🌱 I’m currently learning **some advanced topics**
-
-- 👯 I’m looking to collaborate on **big projects.**
+- 🔭 Looking to collaborate on **big projects.**
 
 - 📫 How to reach me **ammar.elgml@gmail.com**
 
